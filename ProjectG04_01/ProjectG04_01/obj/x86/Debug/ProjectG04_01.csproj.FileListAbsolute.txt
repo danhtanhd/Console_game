@@ -1,0 +1,16 @@
+D:\Laptrinh\projectG04_01\ProjectG04_01\bin\Debug\ProjectG04_01.exe
+D:\Laptrinh\projectG04_01\ProjectG04_01\bin\Debug\ProjectG04_01.pdb
+D:\Laptrinh\projectG04_01\ProjectG04_01\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Laptrinh\projectG04_01\ProjectG04_01\obj\x86\Debug\ProjectG04_01.exe
+D:\Laptrinh\projectG04_01\ProjectG04_01\obj\x86\Debug\ProjectG04_01.pdb
+D:\Laptrinh\projectG04_01\ProjectG04_01\bin\Debug\Data\HOA
+D:\Laptrinh\projectG04_01\ProjectG04_01\bin\Debug\Data\LICH SU
+D:\Laptrinh\projectG04_01\ProjectG04_01\bin\Debug\Data\MUA XUAN
+C:\Users\dangyen\Desktop\ProjectG04_01\ProjectG04_01\ProjectG04_01\obj\x86\Debug\ProjectG04_01.exe
+C:\Users\dangyen\Desktop\ProjectG04_01\ProjectG04_01\ProjectG04_01\obj\x86\Debug\ProjectG04_01.pdb
+C:\Users\dangyen\Desktop\ProjectG04_01\ProjectG04_01\ProjectG04_01\bin\Debug\Data\HOA
+C:\Users\dangyen\Desktop\ProjectG04_01\ProjectG04_01\ProjectG04_01\bin\Debug\Data\LICH SU
+C:\Users\dangyen\Desktop\ProjectG04_01\ProjectG04_01\ProjectG04_01\bin\Debug\Data\MUA XUAN
+C:\Users\dangyen\Desktop\ProjectG04_01\ProjectG04_01\ProjectG04_01\bin\Debug\ProjectG04_01.exe
+C:\Users\dangyen\Desktop\ProjectG04_01\ProjectG04_01\ProjectG04_01\bin\Debug\ProjectG04_01.pdb
+C:\Users\dangyen\Desktop\ProjectG04_01\ProjectG04_01\ProjectG04_01\obj\x86\Debug\ResolveAssemblyReference.cache
